@@ -1,6 +1,7 @@
 # ListDemo
 
 演示：
+
 ![demo](./demo.gif)
 
 基于UICollectionView的列表的实现，看似复杂，但分解之后就是如下的四个部分的文件，而且为了方便重用，做了更为细化的分解。
